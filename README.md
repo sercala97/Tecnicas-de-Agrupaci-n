@@ -1,2 +1,2 @@
-# Tecnicas-de-Agrupaci-n
+# Tecnicas-de-Agrupacion
 Asignatura Master
